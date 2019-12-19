@@ -7,6 +7,7 @@ eng_name = {
     '희동이' : 'dong',
     '둘리' : 'twolle',
 }
+df
 
 지목된사람 = random.choice(name)
 지목된영어이름 = eng_name[지목된사람]
