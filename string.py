@@ -8,7 +8,7 @@ eng_name = {
     '둘리' : 'twolle',
 }
 
-지목된사람 = rendom.choice(name)
+지목된사람 = random.choice(name)
 지목된영어이름 = eng_name[지목된사람]
 
 # 저는 홍길동입니다. My name is hong 문자열을 만들고 싶다.
